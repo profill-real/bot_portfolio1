@@ -20,7 +20,7 @@
 ## 🚀 О проекте
 
 > **Portfolio Bot** — это Telegram-бот, который заменяет скучное резюме!
-> Отправь `/start` и получи всю информацию обо мне, моих навыках и проектах
+> Отправь `/projects` и получи всю информацию о моих навыках и проектах
 > в удобном интерактивном формате. 💬⚡
 
 ---
@@ -126,6 +126,6 @@ portfolio-bot/
 
 **⭐ Поставь звезду, если проект понравился!**
 
-<img src="https://komarev.com/ghpvc/?username=your_username&color=brightgreen&style=flat-square" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=profill-real&color=brightgreen&style=flat-square" alt="views" />
 
 </div>
