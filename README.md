@@ -108,20 +108,6 @@ portfolio-bot/
 
 ---
 
-## 💬 Связь со мной
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@your_username-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/your_username)
-[![GitHub](https://img.shields.io/badge/GitHub-your_username-181717?style=for-the-badge&logo=github)](https://github.com/your_username)
-[![Email](https://img.shields.io/badge/Email-your@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
-
----
-
-<div align="center">
-
 ### _Сделано с ❤️ и ☕_
 
 **⭐ Поставь звезду, если проект понравился!**
