@@ -12,7 +12,7 @@ def cansel(message):
     bot.send_message(message.chat.id, "Чтобы посмотреть команды, используй - /info", reply_markup=hideBoard)
   
 def no_projects(message):
-    bot.send_message(message.chat.id, 'У тебя пока нет проектов!\nМожешь добавить их с помошью команды /new_project')
+    bot.send_message(message.chat.id, 'У тебя пока нет проектов! 😢\nМожешь добавить их с помошью команды /new_project')
 
 def gen_inline_markup(rows):
     markup = InlineKeyboardMarkup()
@@ -60,10 +60,14 @@ def info(message):
 Вот команды которые могут тебе помочь:
 
 /new_project - используй для добавления нового проекта
-/projects - используй для отображения всех проектов
-/update_projects - используй для изменения данных о проекте
-/skills - используй для привязки навыков к проекту
-/delete - используй для удаления проекта
+
+/skills - используй для добавления скиллов к проекту
+
+/projects - используй чтобы посмотреть твои проекты
+
+/delete - используй чтобы удалить проект
+
+/update_projects - используй чтобы изменить проект
 
 Также ты можешь ввести имя проекта и узнать информацию о нем!""")
     
